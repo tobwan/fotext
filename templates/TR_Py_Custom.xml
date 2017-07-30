@@ -1,0 +1,9 @@
+<templateSet group="TR_Py_Custom">
+  <template name="ifs" value="if $END$$x$:&#10;    $y$" description="if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="x" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="y" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

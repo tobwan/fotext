@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="scribble" type="PLAIN_TEXT" />
       <mapping pattern="cryptocompare_api_notes" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="step1" type="PythonStub" />
     </extensionMap>
   </component>

@@ -4,16 +4,17 @@
     <extensionMap>
       <mapping pattern="request" type="JSON" />
       <mapping pattern="response" type="JSON" />
-      <mapping pattern="smallversion-sql" type="PLAIN_TEXT" />
-      <mapping pattern="scribble" type="PLAIN_TEXT" />
       <mapping pattern="sql-scratchpad" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="tasklist" type="PLAIN_TEXT" />
+      <mapping pattern="scribble" type="PLAIN_TEXT" />
       <mapping pattern="snippets" type="PLAIN_TEXT" />
+      <mapping pattern="smallversion-sql" type="PLAIN_TEXT" />
       <mapping pattern="cryptocompare_api_notes" type="PLAIN_TEXT" />
+      <mapping pattern="tasklist" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="step1" type="PythonStub" />
+      <mapping pattern="initial-data" type="SQL" />
     </extensionMap>
   </component>
 </application>

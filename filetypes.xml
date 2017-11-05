@@ -15,6 +15,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="step1" type="PythonStub" />
       <mapping pattern="initial-data" type="SQL" />
+      <mapping pattern="trase_2_somequeries.sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
